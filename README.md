@@ -1,2 +1,2 @@
 # PORTFOLIO
-https://s7-portfolio.netlify.app/
+https://sharjeel1.netlify.app/
